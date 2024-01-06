@@ -1,2 +1,2 @@
 # odin-recipes
-project followning The Project Odin course
+project following The Project Odin course
