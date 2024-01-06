@@ -37,3 +37,16 @@ a{
     height: auto;
     
 }
+
+h2,h3,h4{
+    background-color: #BA6B57;
+    color: #FFFFEC;
+    font-weight: bolder;
+    width: 70%;
+    padding: 1em;
+}
+li{
+    margin-bottom: 1em;
+    max-width: 70%;
+    line-height: 1.5em;
+}
