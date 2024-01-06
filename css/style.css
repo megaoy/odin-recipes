@@ -1,13 +1,39 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #30475E;
+    
+    font-size: 20px;
 }
 body{
     background-color: #FFFFEC;
+    margin-left: 2em;
 }
 h1{
     text-align: center;
     color: #BA6B57;
     font-size: 3em;
+    letter-spacing: 0.5em;
+    
+}
+p{
+    line-height: 2em;
+}
+
+p em{
+    margin-left: 0;
+}
+
+a{
+    background-color: #BA6B57;
+    color: #FFFFEC;
+    font-size: 2em;
+    letter-spacing: 6px;
+    text-decoration: none;
+    margin-right: 1em;
+}
+
+.homePhoto{
+    width: 50%;
+    height: auto;
     
 }
