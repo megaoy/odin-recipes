@@ -23,6 +23,8 @@ h1 hr{
 }
 p{
     line-height: 2em;
+    background-color: white;
+    padding: 16px;
 }
 
 p em{
@@ -39,8 +41,8 @@ a{
 }
 
 .homePhoto{
-    width: 50%;
-    height: auto;
+    
+    
     margin: 1em auto;
     
 }
@@ -53,12 +55,26 @@ h2,h3,h4{
 }
 li{
     margin-bottom: 1em;
-    max-width: 70%;
     line-height: 1.5em;
+    margin-left: 16px;
+    
+}
+li hr{
+    margin-top: -2px;
+    
+}
+ul li{
+    list-style: circle;   
+    
 }
 
 .content{
     width: auto;
     margin: 0px 15%;
+    
+}
+ol,ul{
+    background-color: white;
+    padding: 8px;
     
 }
